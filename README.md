@@ -1,4 +1,4 @@
-EHMI--iOS-
+EMHI--iOS-
 ==========
 
 EMHI weather forecast (iOS)
